@@ -1,0 +1,2 @@
+2024-05-09 17:33:01,420 FILE: database.py IN: count_users MESSAGE: no such table: messages
+2024-05-09 17:33:17,732 FILE: database.py IN: count_users MESSAGE: no such table: messages
