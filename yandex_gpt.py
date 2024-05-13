@@ -2,7 +2,7 @@ import requests
 import logging  # модуль для сбора логов
 # подтягиваем константы из config файла
 from config import LOGS, MAX_GPT_TOKENS, SYSTEM_PROMPT
-from creds import get_creds
+from creds.creds import get_creds
 
 iam_token, folder_id = get_creds()
 
